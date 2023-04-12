@@ -26,10 +26,13 @@ Apache Ant(TM) version 1.10.13 compiled on January 4 2023
 ## running
 - Clone the repo into a specified folder.
 - If working with an IDE configure the builed.xml supplied in the repo.
-- Other
+- Otherwise, open the cmd from the folder location and type:
+ >ant compile
+
+you should see a new bin folder in 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzU3MzQ0OSw5NDcxNDMyMjcsLTEzNj
+eyJoaXN0b3J5IjpbLTM3NTE5MDQ1Myw5NDcxNDMyMjcsLTEzNj
 U2Nzc1NzNdfQ==
 -->
