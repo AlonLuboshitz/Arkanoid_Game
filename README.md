@@ -1,5 +1,6 @@
 # Arkanoid_Game
 OOP based Arkanoid game assignment build from 4 stages differ in graphics and difficulty.
+## p
 ## installation
 >clone the repo.
 ## running
@@ -7,5 +8,6 @@ OOP based Arkanoid game assignment build from 4 stages differ in graphics and di
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTQzMjI3LC0xMzY1Njc3NTczXX0=
+eyJoaXN0b3J5IjpbMTQ4Mzg3NDA0MSw5NDcxNDMyMjcsLTEzNj
+U2Nzc1NzNdfQ==
 -->
