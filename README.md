@@ -8,7 +8,9 @@ For Mac users who use brew to install packages (highly recommended in general), 
 
 For Windows and Linux, proceed as follows:
 
-- Download the zip folder from [her
+- Download the zip folder from [here](https://github.com/AlonLuboshitz/Arkanoid_Game/blob/master/apache-ant-1.10.13-bin%20(1).zip) located in the github repo.
+- Unzip the zip file to a convenient location.
+
 ## installation
 >clone the repo.
 ## running
@@ -16,6 +18,6 @@ For Windows and Linux, proceed as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI0Mjc3NzMsOTQ3MTQzMjI3LC0xMz
-Y1Njc3NTczXX0=
+eyJoaXN0b3J5IjpbMjc5ODE1NDE2LDk0NzE0MzIyNywtMTM2NT
+Y3NzU3M119
 -->
