@@ -23,14 +23,13 @@ You should see an output similar to −
 ```
 Apache Ant(TM) version 1.10.13 compiled on January 4 2023
 ```
-## Integration with IDEs
-
-Common Java IDEs, such as IntelliJ and Eclipse, support the usage of Ant. You can copy the  `build.xml`  (that we will provide you for each assignment) into your project directory and then edit your build configuration so that it uses Ant targets specified there.
 ## running
->java with args
+- Clone the repo into a specified folder.
+- If working with an IDE configure the builed.xml supplied in the repo.
+- Other
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzQxNjM1MCw5NDcxNDMyMjcsLTEzNj
+eyJoaXN0b3J5IjpbMTA4MzU3MzQ0OSw5NDcxNDMyMjcsLTEzNj
 U2Nzc1NzNdfQ==
 -->
