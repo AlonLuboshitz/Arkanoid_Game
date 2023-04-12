@@ -3,7 +3,7 @@ OOP based Arkanoid game assignment build from 4 stages differ in graphics and di
 ## ### Pre-requisite
 It is assumed that you have already downloaded and installed Java Development Kit (JDK) on your computer.
 If that's not the case you can download the latest JDK from [here](https://www.oracle.com/java/technologies/downloads/#jdk20-windows).
-## Install ant
+## Download and insta ant
 
 ## installation
 >clone the repo.
@@ -12,6 +12,6 @@ If that's not the case you can download the latest JDK from [here](https://www.o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM5NDg2MDcsOTQ3MTQzMjI3LC0xMz
-Y1Njc3NTczXX0=
+eyJoaXN0b3J5IjpbMjAxODAwMDkzNiw5NDcxNDMyMjcsLTEzNj
+U2Nzc1NzNdfQ==
 -->
