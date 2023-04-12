@@ -31,13 +31,14 @@ Apache Ant(TM) version 1.10.13 compiled on January 4 2023
 
 you should see a new bin folder in the father folder.
 
-- To run the program type:
+- To run the game type:
 > ant run Ass6Game
 
-The game should run.
+The game should run,
+**Have fun and Good luck!**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc3MTUyNDgsOTQ3MTQzMjI3LC0xMz
-Y1Njc3NTczXX0=
+eyJoaXN0b3J5IjpbNjU3NDk3NTA3LDk0NzE0MzIyNywtMTM2NT
+Y3NzU3M119
 -->
