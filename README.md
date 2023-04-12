@@ -11,16 +11,26 @@ For Windows and Linux, proceed as follows:
 - Download the zip folder from [here](https://github.com/AlonLuboshitz/Arkanoid_Game/blob/master/apache-ant-1.10.13-bin%20(1).zip) located in the github repo.
 - Unzip the zip file to a convenient location (e.g. `C:\Users\User`).
 ### Set environment variables (Windows and Linux)
+-   Create a new environment variable called ANT_HOME that points to the Ant installation folder, in our example, the  `C:\User\User\apache-ant-1.10.13-bin`  folder.
+    
+-   Append the path to the Apache Ant batch file to the PATH environment variable. In our example this would be the  `C:\User\User\apache-ant-1.10.13-bin\bin`  folder. You can now run  `ant`  commands from anywhere on your system.
+### Verify Installation
 
--
+To verify the successful installation of Apache Ant on your computer, type  `ant -version`  on your command prompt.
 
-## installation
->clone the repo.
+You should see an output similar to −
+
+```
+Apache Ant(TM) version 1.10.13 compiled on January 4 2023
+```
+## Integration with IDEs
+
+Common Java IDEs, such as IntelliJ and Eclipse, support the usage of Ant. You can copy the  `build.xml`  (that we will provide you for each assignment) into your project directory and then edit your build configuration so that it uses Ant targets specified there.
 ## running
 >java with args
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0OTExOTY3LDk0NzE0MzIyNywtMTM2NT
-Y3NzU3M119
+eyJoaXN0b3J5IjpbLTU0NzQxNjM1MCw5NDcxNDMyMjcsLTEzNj
+U2Nzc1NzNdfQ==
 -->
