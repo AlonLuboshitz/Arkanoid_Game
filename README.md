@@ -29,10 +29,15 @@ Apache Ant(TM) version 1.10.13 compiled on January 4 2023
 - Otherwise, open the cmd from the folder location and type:
  >ant compile
 
-you should see a new bin folder in 
+you should see a new bin folder in the father folder.
+
+- To run the program type:
+> ant run Ass6Game
+
+The game should run.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTE5MDQ1Myw5NDcxNDMyMjcsLTEzNj
-U2Nzc1NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTc3MTUyNDgsOTQ3MTQzMjI3LC0xMz
+Y1Njc3NTczXX0=
 -->
